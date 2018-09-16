@@ -1,0 +1,33 @@
+_repo: The-Lost-Atlantis-and-Other-Ethnographic-Studies_51881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Daniel, Sir
+    alias: Wilson, Daniel
+    birthdate: 1816
+    deathdate: 1892
+    gutenberg_agent_id: '46329'
+    url: http://www.gutenberg.org/2009/agents/46329
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Wilson_%28academic%29
+description: ''
+gutenberg_issued: '2016-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology -- America'
+- !lcsh 'America -- Antiquities'
+- !lcsh 'Indians of North America -- Antiquities'
+- !lcc 'E011'
+- !lcsh 'Atlantis (Legendary place)'
+- GITenberg
+tableOfContents: The lost Atlantis -- The Vinland of the Northmen -- Trade and commerce
+  in the stone age -- Pre-Aryan American man -- The æsthetic faculty in aboriginal
+  races -- The Huron-Iroquois; a typical race -- Hybridity and heredity -- Relative
+  racial brain-weight and size.
+title: The Lost Atlantis and Other Ethnographic Studies
+url: http://www.gutenberg.org/ebooks/51881
